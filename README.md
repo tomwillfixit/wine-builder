@@ -1,8 +1,8 @@
 # Wine Builder
 
-These scripts may be useful for someone.  
+These scripts may be useful for someone. 
 
-Use a Docker image to build and patch Wine.
+Use a Docker image to build and patch 32 bit Wine.
 
 ```
 make wine
